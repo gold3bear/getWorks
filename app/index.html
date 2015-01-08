@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html class="no-js" lang="cn">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <!--移动版设置-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Xiongyonxin is Full Stack developer, so a good designer ,now is searching a PM job" />
+    <meta name="author"	content="xiongyongxin " />
+    <title>熊永鑫的个人简历</title>
+
+    <link href='http://fonts.useso.com/css?family=Source+Sans+Pro:300,400,700,400italic|Josefin+Slab:400,700italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="styles/normalize.css" type="text/css">
+    <link rel="stylesheet" href="styles/style.css" type="text/css">
+    <link rel="stylesheet" href="styles/examples.css" type="text/css">
+    <link rel="shortcut icon" href="favicon.png" type="image/png">
+
+    <script type="text/javascript" src="../bower_components/gsap/src/minified/TweenMax.min.js"></script>
+    <script type="text/javascript" src="../bower_components/jquery/dist/jquery.min.js"></script>
+
+    <script type="text/javascript" src="../bower_components/modernizr/modernizr.js"></script>
+    <script type="text/javascript" src="../bower_components/ScrollMagic/js/jquery.scrollmagic.js"></script>
+    <script type="text/javascript" src="../bower_components/ScrollMagic/js/jquery.scrollmagic.debug.js"></script>
+</head>
+<body>
+<div id="content-wrapper">
+    <div id="example-wrapper" class="scrollContainer">
+        <div class="scrollContent" style="position: relative;">
+            <section id="titlechart">
+                <div id="description">
+                    <h1>我是熊永鑫</h1>
+                    <h2>现在开始体检.</h2>
+                    <p>Check out this page on your phone to see a fully working ScrollMagic site.</p>
+                    <p>Just bare in mind that this might come at the cost of performance loss. So you might end up passing on momentum after all.</p>
+                </div>
+                <div id="screenToNarrow">
+                    <h1>横屏观看体验好</h1>
+                </div>
+            </section>
+
+            <section >
+
+            </section>
+
+            <section class="demo">
+                <div class="spacer s2"></div>
+                <div class="spacer s0" id="trigger"></div>
+                <div id="mobileadvanced" class="box1 blue disablePointerEvents">
+                    <p>What's the Point?</p>
+                    <a href="#" class="viewsource">view source</a>
+                </div>
+                <div class="spacer s7"></div>
+
+            </section>
+        </div>
+    </div>
+</div>
+    <script type="text/javascript" src="scripts/iscroll-probe.js"></script>
+<script>
+    $(document).ready(function($) {
+
+        // init controller
+        var controller = new ScrollMagic({container: "#example-wrapper"});
+
+        // init tween
+        var tween = TweenMax.to("#mobileadvanced", 1, {backgroundColor: "black", scale: 0.4, borderRadius: 75});
+
+        // init scene
+        var scene = new ScrollScene({triggerElement: "#trigger", duration: 500, offset: 75})
+                .setTween(tween)
+                .setPin("#mobileadvanced")
+                .addTo(controller);
+
+        // make sure we only do this on mobile:
+        if (Modernizr.touch) {
+            // configure iScroll
+            var myScroll = new IScroll('#example-wrapper',
+                    {
+                        // don't scroll horizontal
+                        scrollX: false,
+                        // but do scroll vertical
+                        scrollY: true,
+                        // show scrollbars
+                        scrollbars: true,
+                        // deactivating -webkit-transform because pin wouldn't work because of a webkit bug: https://code.google.com/p/chromium/issues/detail?id=20574
+                        // if you dont use pinning, keep "useTransform" set to true, as it is far better in terms of performance.
+                        useTransform: false,
+                        // deativate css-transition to force requestAnimationFrame (implicit with probeType 3)
+                        useTransition: false,
+                        // set to highest probing level to get scroll events even during momentum and bounce
+                        // requires inclusion of iscroll-probe.js
+                        probeType: 3,
+                        // pass through clicks inside scroll container
+                        click: true
+                    }
+            );
+
+            // overwrite scroll position calculation to use child's offset instead of container's scrollTop();
+            controller.scrollPos(function () {
+                return -myScroll.y;
+            });
+
+            // thanks to iScroll 5 we now have a real onScroll event (with some performance drawbacks)
+            myScroll.on("scroll", function () {
+                controller.update();
+            });
+
+            // add indicators to scrollcontent so they will be moved with it.
+            scene.addIndicators({parent: ".scrollContent"});
+        } else {
+            // show indicators (requires debug extension)
+            scene.addIndicators();
+        }
+
+    });
+</script>
+</body>
+</html>
