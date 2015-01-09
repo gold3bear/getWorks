@@ -2,600 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="139d8b9b-46c7-4d59-9e2f-7375bace7fac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/media/Modernizr 2 Logo.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/media/Modernizr 2 Logo.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/media/Modernizr 2 Logo.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/media/Modernizr 2 Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/apng_test.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/before-after.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_arrow_scroll.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_arrow_skip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_bubble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_bunny.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_bunny_wink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_fb_preview.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_floor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_hat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_hat_front.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_parallax_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_parallax_shadow_bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_parallax_shadow_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_spark1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_spark2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_spark3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_spark4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_spark5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_spark6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_tophat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_wand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_bezier.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_bg_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_bg_spacer_h.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_bg_spacer_v.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_bg_v.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_imagesequence_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_imagesequence_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_imagesequence_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_imagesequence_04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_imagesequence_05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_imagesequence_06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_imagesequence_07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_parallax_bg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_parallax_bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_parallax_bg3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_parallax_l1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_parallax_l2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/example_parallax_l3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/green5x5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/madewith_appliancetec.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/madewith_buntspenden.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/madewith_flyacts.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/madewith_framescollection.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/madewith_googlecardboard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/madewith_sebastienlempens.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/img/madewith_tink.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/mathml_ref.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/png_alpha_result.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/red30x30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/ruby.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/stroked-text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg-html-blur.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg_blur.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/text-shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/text-shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/windsong_font.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/.nojekyll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/prettify/Apache-License-2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/prettify/Apache-License-2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/AttrPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/AttrPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/AttrPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/BezierPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/BezierPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/BezierPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/CSSPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/CSSPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/CSSPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/CSSRulePlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/CSSRulePlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/CSSRulePlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/ColorPropsPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/ColorPropsPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/ColorPropsPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/DirectionalRotationPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/DirectionalRotationPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/DirectionalRotationPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/utils/Draggable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/utils/Draggable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/utils/Draggable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/easing/EasePack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/easing/EasePack.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/easing/EasePack.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/EaselPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/EaselPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/EaselPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/EndArrayPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/EndArrayPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/EndArrayPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/KineticPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/KineticPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/KineticPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/media/Modernizr 2 Logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/RaphaelPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/RaphaelPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/RaphaelPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/RoundPropsPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/RoundPropsPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/RoundPropsPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/ScrollMagic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/ScrollMagic.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/ScrollScene.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/ScrollToPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/ScrollToPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/ScrollToPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/TEMPLATE_Plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/plugins/TextPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/plugins/TextPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/plugins/TextPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/TimelineLite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/TimelineLite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/TimelineLite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/TimelineMax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/TimelineMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/TimelineMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/TweenLite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/TweenLite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/TweenLite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/TweenMax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/TweenMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/TweenMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/URI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/URI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/a-download.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/accepts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/advanced_tweening.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/anchor_link_scrolling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/audio-audiodata-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/audio-webaudio-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/background-variant.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/battery-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/battery-level.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/bezier_path_animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/blob-constructor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/bootstrap-dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/bootstrap-dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/bootstrap-tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/bootstrap-tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/border-radius.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/grunt/bs-raw-files-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/canvas-todataurl-type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/cascading_pins.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/center-block.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/src/class.ScrollMagic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/src/class.ScrollScene.extend.debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/src/class.ScrollScene.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/class_toggles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/classes.list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/clearfix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/tests/fixtures/container-scroll.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/container.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/contenteditable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/contentsecuritypolicy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/contextmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/cookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/src/core.ScrollMagic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/cors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-backgroundposition-shorthand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-backgroundposition-xy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-backgroundrepeat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-backgroundsizecover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-boxsizing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-calc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-cubicbezierrange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-displayrunin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-displaytable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-hyphens.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-lastchild.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-mask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-mediaqueries.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-objectfit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-overflow-scrolling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-pointerevents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-positionsticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-regions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-remunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-scrollbars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-shapes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-subpixelfont.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-supports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-userselect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-vhunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-vmaxunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-vminunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-vwunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/custom-protocol-handler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/custom_actions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/custom_containers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dataview-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/debugging.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/defaultDisplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/deletedIds.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_examples/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/details.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/detect-global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dom-classlist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dom-createElement-attrs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dom-dataset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dom-microdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/dumpdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-datalist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-details.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-output.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-progress-meter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-ruby.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-track.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/emoji.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/es5-strictmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/event-deviceorientation-motion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/example.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/examples.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/css/examples.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/examples.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/exceptions.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/exif-orientation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/file-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/file-filesystem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/fires.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/form_validation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-fileinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-formattribute.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-inputnumber-l10n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-speechinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/fullscreen-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/ga.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/gamepad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_examples/general.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/getusermedia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/going_horizontal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/gradients.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/grid-framework.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/grunt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/hashchange.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/src/header.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/src/header.regular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/hide-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_examples/highlight.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/ie8compat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/iframe-sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/iframe-seamless.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/iframe-srcdoc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/image.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/image_sequence.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/img-apng.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/img-webp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/infinite_scrolling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/intro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/isHidden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/iscroll-probe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_mobile/iscroll-probe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/tests/additional/vendor/jasmine-jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/jquery-1.7b2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/uncompressed/jquery.gsap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/greensock/jquery.gsap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/src/minified/jquery.gsap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/jquery.localScroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/jquery.localScroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/prettify/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/prettify/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_dependent/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/jquery.scrollTo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/jquery.scrollTo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/jquery.scrollmagic.debug.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/jquery.scrollmagic.debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/jquery.scrollmagic.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/jquery.scrollmagic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/jquery.scrollmagic.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/jquery.sunlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/jquery.sunlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/jsdoc.conf.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/jsonselect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/tests/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/prettify/lang-css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/prettify/lang-css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/layout.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/lists-reversed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/mainpage.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/manipulating_tweens.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/mathml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/mathml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/members.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/method.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/mobile_advanced.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/mobile_basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/modernizr-1.7.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/js/_examples/modernizr.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/multiple_scroll_directions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/nav-divider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/nav-vertical-align.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/network-connection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/network-eventsource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/network-xhr2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/notification.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/opacity.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/outro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/gsap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/parallax_scrolling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/parallax_sections.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/params.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/parseJSON.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/performance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/pointerlock-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/polyfills.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/styles/prettify-tomorrow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/styles/prettify-tomorrow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/prettify/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/prettify/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/progress-bar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/properties.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/publish.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/pushstate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/qunit/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/qunit/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/quota-management-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/removing_and_destroying.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/requestanimationframe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/reset-filter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/resize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/responsive-embed.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/responsive-visibility.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/responsive_duration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/returns.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/rnotwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/qunit/run-qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/grunt/sauce_browsers.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/scene_manipulation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/script-async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/script-defer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/sections.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/tests/additional/settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/simple_pinning.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/simple_tweening.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/styles/site.cosmo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/styles/site.cosmo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/source.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/tests/spec/spec.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/tests/spec/spec.events.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/tests/spec/spec.events.scene.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/tests/spec/spec.scene.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/strundefined.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/style-scoped.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/sunlight-plugin.doclinks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/sunlight-plugin.doclinks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/sunlight-plugin.linenumbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/sunlight-plugin.linenumbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/sunlight-plugin.menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/sunlight-plugin.menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/styles/sunlight.default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/styles/sunlight.default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/sunlight.javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/sunlight.javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/sunlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/sunlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/svg-filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg-img.svg.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg-img.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/svg_drawing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/sync_info.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/tab-focus.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/table-row.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/text-emphasis.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/text-overflow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/static/scripts/toc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/docs/scripts/toc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/tutorial.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/docs/template/tmpl/type.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/uaparser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/unicode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/unit-caniuse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/unit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/url-data-uri.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/userdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/dev/src/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/mixins/vendor-prefixes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/vibration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/web-intents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/webgl-extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/websockets-binary.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/window-framed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/workers-blobworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/workers-dataworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/workers-sharedworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/xhtml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/Qnude.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/qcloth.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/qshort.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/class_toggles.html" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/class_toggles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/getWorks.iml" afterPath="$PROJECT_DIR$/.idea/getWorks.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="getWorks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -618,105 +32,106 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mobile_basic.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/mobile_basic.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.125" vertical-offset="420" max-vertical-offset="1500">
+              <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.07286822" vertical-offset="767" max-vertical-offset="1860">
-              <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+            <state vertical-scroll-proportion="3.125" vertical-offset="870" max-vertical-offset="2580">
+              <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iscroll-probe.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/js/_mobile/iscroll-probe.js">
+      <file leaf-file-name="qcloth.svg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/images/qcloth.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30570">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bower.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/bower.json">
+      <file leaf-file-name="cascading_pins.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/cascading_pins.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="660">
+            <state vertical-scroll-proportion="30.625" vertical-offset="735" max-vertical-offset="1605">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".bowerrc" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <file leaf-file-name="image_sequence.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/image_sequence.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="-18.75" vertical-offset="975" max-vertical-offset="2040">
+              <caret line="95" column="32" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".bower.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/.bower.json">
+      <file leaf-file-name="simple_tweening.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/simple_tweening.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="6.3333335" vertical-offset="152" max-vertical-offset="810">
+            <state vertical-scroll-proportion="-10.625" vertical-offset="465" max-vertical-offset="1740">
+              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="removing_and_destroying.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/removing_and_destroying.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1860">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="555">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bower.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iscroll-probe.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/iscroll-probe.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30570">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7770">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
+      <file leaf-file-name="examples.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/css/examples.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-              <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="3745" max-vertical-offset="14025">
+              <caret line="273" column="5" selection-start-line="273" selection-start-column="5" selection-end-line="273" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".yo-rc.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.yo-rc.json">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="120">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-22.25" vertical-offset="36" max-vertical-offset="780">
+              <caret line="38" column="80" selection-start-line="38" selection-start-column="80" selection-end-line="38" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -737,18 +152,26 @@
       <list>
         <option value="$PROJECT_DIR$/app/styles/style.css" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.bowerrc" />
         <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/class_toggles.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/images/Qnude.svg" />
         <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
+  <component name="JsGruntFileManager">
+    <gruntfiles>
+      <GruntfileState>
+        <gruntfile-path>$PROJECT_DIR$/Gruntfile.js</gruntfile-path>
+      </GruntfileState>
+    </gruntfiles>
+    <initial>false</initial>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-55" />
-    <option name="y" value="34" />
-    <option name="width" value="1399" />
-    <option name="height" value="823" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -776,7 +199,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -831,33 +253,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScrollMagic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_mobile" />
+              <option name="myItemId" value="examples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -882,22 +278,8 @@
               <option name="myItemId" value="examples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modernizr" />
+              <option name="myItemId" value="expert" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -914,6 +296,58 @@
               <option name="myItemId" value="bower_components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScrollMagic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getWorks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getWorks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScrollMagic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getWorks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getWorks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -943,30 +377,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -976,23 +393,17 @@
     <property name="options.searchVisible" value="true" />
     <property name="last_opened_file_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/images" />
       <recent name="$PROJECT_DIR$/app/scripts" />
       <recent name="$PROJECT_DIR$/app/styles" />
       <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -1003,14 +414,12 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
       <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -1018,6 +427,16 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -1038,27 +457,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-55" y="34" width="1399" height="823" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287858" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981578" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33476394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22103004" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.087312415" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1081,128 +501,10 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="710">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6666666" vertical-offset="0" max-vertical-offset="135">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1132076" vertical-offset="435" max-vertical-offset="1695">
-          <caret line="40" column="107" selection-start-line="40" selection-start-column="102" selection-end-line="40" selection-end-column="107" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/favicon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/mobile_advanced.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="1935">
-          <caret line="27" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="123" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/ScrollMagic.jquery.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.jshintrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/css/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6645">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1155">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21994135" vertical-offset="0" max-vertical-offset="6420">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6420">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/js/_examples/modernizr.custom.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/js/_examples/general.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.06726457" vertical-offset="45" max-vertical-offset="5370">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1210,7 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1222,42 +523,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/css/examples.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14025">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/img/example_bg_spacer_h.gif">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/examples.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.076923" vertical-offset="1469" max-vertical-offset="14025">
-          <caret line="131" column="57" selection-start-line="131" selection-start-column="57" selection-end-line="131" selection-end-column="57" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.5" vertical-offset="1053" max-vertical-offset="5940">
           <caret line="78" column="20" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8" vertical-offset="0" max-vertical-offset="150">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1265,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1273,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="6.3333335" vertical-offset="152" max-vertical-offset="810">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1281,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1289,7 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1297,7 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="555">
           <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1306,7 +575,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30570">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1315,7 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1331,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
           <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1339,17 +606,292 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/svg_drawing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/gsap/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5555553" vertical-offset="0" max-vertical-offset="360">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/gsap/src/minified/TweenMax.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/examples.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.384615" vertical-offset="12412" max-vertical-offset="14025">
+          <caret line="842" column="9" selection-start-line="842" selection-start-column="7" selection-end-line="842" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/manipulating_tweens.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/custom_containers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.3023255" vertical-offset="0" max-vertical-offset="1695">
+          <caret line="99" column="64" selection-start-line="99" selection-start-column="64" selection-end-line="99" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/infinite_scrolling.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1605">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/responsive_duration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1425">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/js/jquery.scrollmagic.debug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4005">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/custom_actions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.302926" vertical-offset="799" max-vertical-offset="1530">
+          <caret line="65" column="71" selection-start-line="65" selection-start-column="71" selection-end-line="65" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/debugging.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38558558" vertical-offset="116" max-vertical-offset="1590">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/img/apple-touch-icon-precomposed.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47384155" vertical-offset="7273" max-vertical-offset="12855">
+          <caret line="506" column="19" selection-start-line="506" selection-start-column="19" selection-end-line="506" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_arrow_scroll.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/going_horizontal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.625" vertical-offset="516" max-vertical-offset="1260">
+          <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="781">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/Qnude.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.078125" vertical-offset="0" max-vertical-offset="2520">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/qshort.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="768">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/advanced_tweening.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9677419" vertical-offset="300" max-vertical-offset="3525">
+          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/class_toggles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.041666" vertical-offset="710" max-vertical-offset="1950">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#section#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#section#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/parallax_sections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5825243" vertical-offset="495" max-vertical-offset="1755">
+          <caret line="61" column="51" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/parallax_scrolling.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1980">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/multiple_scroll_directions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.125" vertical-offset="435" max-vertical-offset="1470">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/mobile_advanced.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.0" vertical-offset="405" max-vertical-offset="1935">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/simple_pinning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.625" vertical-offset="195" max-vertical-offset="1650">
+          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/mobile_basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.125" vertical-offset="420" max-vertical-offset="1500">
+          <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/css/examples.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3745" max-vertical-offset="14025">
+          <caret line="273" column="5" selection-start-line="273" selection-start-column="5" selection-end-line="273" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.25" vertical-offset="36" max-vertical-offset="780">
+          <caret line="38" column="80" selection-start-line="38" selection-start-column="80" selection-end-line="38" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/qcloth.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/cascading_pins.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="30.625" vertical-offset="735" max-vertical-offset="1605">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/image_sequence.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.75" vertical-offset="975" max-vertical-offset="2040">
+          <caret line="95" column="32" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.07286822" vertical-offset="767" max-vertical-offset="1860">
-          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+        <state vertical-scroll-proportion="3.125" vertical-offset="870" max-vertical-offset="2580">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/simple_tweening.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625" vertical-offset="465" max-vertical-offset="1740">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/removing_and_destroying.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1860">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7770">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

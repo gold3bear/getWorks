@@ -21,60 +21,106 @@
     <script type="text/javascript" src="../bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="../bower_components/ScrollMagic/js/jquery.scrollmagic.js"></script>
     <script type="text/javascript" src="../bower_components/ScrollMagic/js/jquery.scrollmagic.debug.js"></script>
+    <style>
+
+
+
+        .page {height:700px;
+            position: relative;}
+        /*第一场景,脱衣服*/
+        #page1 {
+            background: #FF0000;
+        }
+        .item {
+            height: 258px;
+            width: 100%;
+            min-width: 200px;
+            margin:0 auto;
+            position: relative;
+        }
+        .body {
+            background: transparent url(images/Qnude.svg) no-repeat center;
+            z-index: 1;
+        }
+        .cloth {
+            background:transparent url(images/qcloth.svg)no-repeat center;
+            z-index:3;
+        }
+        .short {
+            background:transparent url(images/qshort.svg)no-repeat center;
+            z-index: 2;
+        }
+
+    </style>
+
 </head>
 <body>
 <div id="content-wrapper">
-    <div id="example-wrapper" class="scrollContainer">
+    <div id="wrapper" class="scrollContainer">
         <div class="scrollContent" style="position: relative;">
-            <section id="titlechart">
+            <section id="title">
                 <div id="description">
                     <h1>我是熊永鑫</h1>
-                    <h2>现在开始体检.</h2>
-                    <p>Check out this page on your phone to see a fully working ScrollMagic site.</p>
-                    <p>Just bare in mind that this might come at the cost of performance loss. So you might end up passing on momentum after all.</p>
-                </div>
-                <div id="screenToNarrow">
-                    <h1>横屏观看体验好</h1>
+                    <form class="loglevel move">
+                        <fieldset>
+                            <legend>Console Output</legend>
+                            <div>
+                                <input type="checkbox" id="logcontroller" value="1" checked="">
+                                <label for="logcontroller">ScrollMagic (controller)</label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="logscene" value="1" checked="">
+                                <label for="logscene">ScrollScene</label>
+                            </div>
+                        </fieldset>
+                    </form>
                 </div>
             </section>
-
-            <section >
-
+            <section id="page1" class="page" >
+                <div id="trigger1"></div>
+                <!--文字描述 X光透视-->
+                <div class="body item"></div>
+                <div class="cloth item"></div>
+                <div class="short item"></div>
+            </section>
+            <section id="page2" class="page" style="background-color:yellow;background-attachment: fixed;">
+            </section>
+            <section id="page3" class="page" style="background-color:blue;background-attachment: fixed;">
+            </section>
+            <section id="page4" class="page" style="background-color:green;background-attachment: fixed;">
             </section>
 
-            <section class="demo">
-                <div class="spacer s2"></div>
-                <div class="spacer s0" id="trigger"></div>
-                <div id="mobileadvanced" class="box1 blue disablePointerEvents">
-                    <p>What's the Point?</p>
-                    <a href="#" class="viewsource">view source</a>
-                </div>
-                <div class="spacer s7"></div>
-
-            </section>
         </div>
     </div>
 </div>
-    <script type="text/javascript" src="scripts/iscroll-probe.js"></script>
+<script type="text/javascript" src="scripts/iscroll-probe.js"></script>
 <script>
     $(document).ready(function($) {
 
-        // init controller
-        var controller = new ScrollMagic({container: "#example-wrapper"});
 
-        // init tween
-        var tween = TweenMax.to("#mobileadvanced", 1, {backgroundColor: "black", scale: 0.4, borderRadius: 75});
+        //init Controller
+        var controller = new ScrollMagic();
 
-        // init scene
-        var scene = new ScrollScene({triggerElement: "#trigger", duration: 500, offset: 75})
-                .setTween(tween)
-                .setPin("#mobileadvanced")
-                .addTo(controller);
+        //building scence
+        var scene = new ScrollScene({triggerElement: "#trigger1", duration: 300})
+                    .setPin(".body")
+                    .addTo(controller)
+
+
+        //debug
+        // checkbox actions
+        $("form.loglevel input[type=checkbox]").on("change", function (e) {
+            var
+                    target = $(this).attr("id") == "logcontroller" ? controller : scene,
+                    level = $(this).prop("checked") ? 3 : 0;
+
+            target.loglevel(level);
+        });
 
         // make sure we only do this on mobile:
         if (Modernizr.touch) {
             // configure iScroll
-            var myScroll = new IScroll('#example-wrapper',
+            var myScroll = new IScroll('#wrapper',
                     {
                         // don't scroll horizontal
                         scrollX: false,
@@ -111,6 +157,8 @@
             // show indicators (requires debug extension)
             scene.addIndicators();
         }
+
+
 
     });
 </script>
