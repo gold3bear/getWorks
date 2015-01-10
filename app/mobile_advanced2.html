@@ -51,7 +51,10 @@
             background:transparent url(images/qshort.svg)no-repeat center;
             z-index: 2;
             height: 29px !important;
-            transform:translate(0,-46px);
+            transform: translate(0,-46px);
+            -ms-transform: translate(0,-46px); /* IE 9 */
+            -webkit-transform: translate(0,-46px); /* Chrome, Safari, Opera */
+
         }
     </style>
 </head>
@@ -75,7 +78,7 @@
                         <div class="short item"></div>
 					</div>
 					<div class="spacer s7"></div>
-		  			<script type="text/javascript" src="../bower_components/ScrollMagic/js/_mobile/iscroll-probe.js"></script>
+		  			<script type="text/javascript" src="./scripts/iscroll-probe.js"></script>
 					<script>
 						$(document).ready(function($) {
 							
