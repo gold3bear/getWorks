@@ -25,11 +25,13 @@
 
 
 
-        .page {height:700px;
-            position: relative;}
+        .page {
+            height:700px;
+        }
         /*第一场景,脱衣服*/
         #page1 {
-            background: #FF0000;
+            /*background: #FF0000;*/
+            /*background: transparent url(images/Qnude.svg) no-repeat center fixed;*/
         }
         .item {
             height: 258px;
@@ -46,9 +48,12 @@
             background:transparent url(images/qcloth.svg)no-repeat center;
             z-index:3;
         }
+        /*内裤*/
         .short {
             background:transparent url(images/qshort.svg)no-repeat center;
             z-index: 2;
+            height: 29px !important;
+            transform:translate(0,-46px);
         }
 
     </style>
@@ -77,18 +82,17 @@
                 </div>
             </section>
             <section id="page1" class="page" >
-                <div id="trigger1"></div>
-                <!--文字描述 X光透视-->
-                <div class="body item"></div>
-                <div class="cloth item"></div>
-                <div class="short item"></div>
+                <div id="trigger1" class="sspacer s0"></div>
+                <div class="spacer s7"></div>
+                <!--脱掉衣服-->
+                <div class="body item">
+                    <div class="cloth item"></div>
+                    <div class="short item"></div>
+                </div>
+                <div class="spacer s7"></div>
+
             </section>
-            <section id="page2" class="page" style="background-color:yellow;background-attachment: fixed;">
-            </section>
-            <section id="page3" class="page" style="background-color:blue;background-attachment: fixed;">
-            </section>
-            <section id="page4" class="page" style="background-color:green;background-attachment: fixed;">
-            </section>
+
 
         </div>
     </div>
@@ -101,10 +105,19 @@
         //init Controller
         var controller = new ScrollMagic();
 
-        //building scence
+//
+//        var tween = new TimelineMax ()
+//                    .add([
+//                        TweenMax.fromTo(".mario", 1, {left: 50, ease: Circ.easeIn}),
+//                        TweenMax.to(".mario", 1, {top: -60, ease: Circ.easeOut})
+//                    ]);
+//
+//        //building scence
         var scene = new ScrollScene({triggerElement: "#trigger1", duration: 300})
                     .setPin(".body")
-                    .addTo(controller)
+                    .addTo(controller);
+
+
 
 
         //debug
