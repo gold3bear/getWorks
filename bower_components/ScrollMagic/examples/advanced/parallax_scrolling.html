@@ -8,7 +8,7 @@
 	<meta name="author"	content="Jan Paepke (www.janpaepke.de)" />
 	<title>Parallax Scrolling - Examples - ScrollMagic</title>
 
-	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic|Josefin+Slab:400,700italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.useso.com/css?family=Source+Sans+Pro:300,400,700,400italic|Josefin+Slab:400,700italic' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="../../css/normalize.css" type="text/css">
 	<link rel="stylesheet" href="../../css/style.css" type="text/css">
 	<link rel="stylesheet" href="../../css/examples.css" type="text/css">
@@ -70,7 +70,7 @@
 								]);
 
 							// build scene
-							var scene = new ScrollScene({triggerElement: "#parallaxContainer", duration: 2000, offset: 450})
+							var scene = new ScrollScene({triggerElement: "#parallaxContainer", duration: 500, offset: 450})
 											.setTween(tween)
 											.setPin("#parallaxContainer")
 											.addTo(controller);
@@ -116,12 +116,7 @@
 		</div>
 	</div>
 	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		ga('create', 'UA-37524344-3', 'janpaepke.github.io');
-		ga('send', 'pageview');
+
 	</script>
 </body>
 </html>

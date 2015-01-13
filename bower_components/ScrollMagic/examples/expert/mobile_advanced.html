@@ -60,10 +60,18 @@
 							var tween = TweenMax.to("#mobileadvanced", 1, {backgroundColor: "black", scale: 0.4, borderRadius: 75});
 
 							// init scene
-							var scene = new ScrollScene({triggerElement: "#trigger", duration: 500, offset: 75})
-											.setTween(tween)
-											.setPin("#mobileadvanced")
-											.addTo(controller);
+							new ScrollScene({triggerElement: "#trigger", duration: 500, offset: 75})
+                                    .setTween(tween)
+                                    .setPin("#mobileadvanced")
+                                    .addTo(controller);
+
+                            var scene2 = new ScrollScene({duration: 200, offset: -100})
+                                    .addTo(controller)
+                                    .triggerHook("onCenter")
+                                    .triggerElement(elements[0])
+                                    .setTween(TweenMax.from(elements[0], 1, {autoAlpha: 0}));
+
+
 
 							// make sure we only do this on mobile:
 							if (Modernizr.touch) {
@@ -103,7 +111,7 @@
 								scene.addIndicators({parent: ".scrollContent"});
 							} else {
 								// show indicators (requires debug extension)
-								scene.addIndicators();						
+								scene1.addIndicators();
 							}
 
 						});
