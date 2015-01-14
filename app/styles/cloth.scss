@@ -1,0 +1,53 @@
+
+/*第一场景,脱衣服*/
+/*身体尺寸*/
+@mixin bodySize {
+  height: 259px;
+  width: 100%;
+  min-width: 200px;
+  margin:0 auto;
+}
+@mixin  cloth($bakeImage){
+  @include bodySize;
+  background: transparent url($bakeImage) no-repeat center;
+  position: absolute;
+  top:0;
+  left:0;
+}
+
+/*全裸*/
+#body {
+  @include bodySize;
+  background: transparent url(../images/Qnude.svg) no-repeat center;
+  position: relative;
+  z-index: 1;
+}
+
+/*git t恤*/
+.git-shirt {
+    @include cloth('../images/gitshirt.svg');
+    z-index:3;
+}
+/*内裤*/
+.git-short {
+    @include cloth('../images/gitshort.svg');
+    z-index: 2;
+}
+
+/*dirbbble 篮球服*/
+.basket-uniform {
+    @include cloth('../images/basketuniform.svg');
+    z-index:3;
+}
+.basket-short {
+  @include cloth('../images/basketshort.svg');
+  z-index:2;
+}
+.pm-shirt {
+    @include cloth('../images/pmshirt.svg');
+    z-index:3;
+}
+.pm-short {
+   @include cloth('../images/pmshort.svg');
+    z-index:2;
+}

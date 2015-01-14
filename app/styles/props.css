@@ -1,0 +1,15 @@
+/*道具*/
+.props {
+  width: 100%; }
+
+.props ul {
+  width: 98%; }
+
+.props li {
+  float: right;
+  width: 33%;
+  height: 100px;
+  background-size: contain;
+  background: transparent url('../images/blog.gif') center no-repeat; }
+
+/*# sourceMappingURL=props.css.map */

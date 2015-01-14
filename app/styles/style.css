@@ -1,16 +1,4 @@
 /*
-* 当屏幕宽度小于480的时候,提醒用户横屏观看体验好
-*/
-#screenToNarrow {display:none}
-@media only screen and (max-width: 300px) {
-    #description{
-        display: none;
-    }
-    #screenToNarrow{
-        display: block;
-    }
-}
-/*
 	General styles
 */
 body {

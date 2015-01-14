@@ -2,60 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="139d8b9b-46c7-4d59-9e2f-7375bace7fac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_arrow_scroll.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_arrow_skip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_bubble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_bunny.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_bunny_wink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_fb_preview.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_floor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_hat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_hat_front.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_parallax_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_parallax_shadow_bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_parallax_shadow_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_spark1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_spark2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_spark3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_spark4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_spark5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_spark6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_tophat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/demo_wand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_bezier.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_bg_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_bg_spacer_h.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_bg_spacer_v.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_bg_v.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_imagesequence_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_imagesequence_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_imagesequence_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_imagesequence_04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_imagesequence_05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_imagesequence_06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_imagesequence_07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_parallax_bg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_parallax_bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_parallax_bg3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_parallax_l1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_parallax_l2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/example_parallax_l3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/madewith_appliancetec.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/madewith_buntspenden.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/madewith_flyacts.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/madewith_framescollection.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/madewith_googlecardboard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/madewith_sebastienlempens.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/madewith_tink.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/mobile_advanced2.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/blog.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/cloth.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/dailog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/props.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/titlechart.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/getWorks.iml" afterPath="$PROJECT_DIR$/.idea/getWorks.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.css" afterPath="$PROJECT_DIR$/app/styles/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/main.js" afterPath="$PROJECT_DIR$/app/scripts/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/mobile_advanced.html" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/mobile_advanced.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/parallax_scrolling.html" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/parallax_scrolling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/parallax_sections.html" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/parallax_sections.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/style.css" afterPath="$PROJECT_DIR$/app/styles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/ScrollMagic/css/style.css" afterPath="$PROJECT_DIR$/bower_components/ScrollMagic/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="getWorks.iws" />
@@ -78,73 +39,90 @@
     <favorites_list name="getWorks" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.7722449">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="1.9955157" vertical-offset="0" max-vertical-offset="2190">
-                  <caret line="89" column="46" selection-start-line="89" selection-start-column="46" selection-end-line="89" selection-end-column="46" />
-                  <folding>
-                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="class.ScrollScene.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/updateToSae/bower_components/ScrollMagic/dev/src/class.ScrollScene.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="16.5" vertical-offset="5499" max-vertical-offset="26505">
-                  <caret line="338" column="12" selection-start-line="338" selection-start-column="12" selection-end-line="338" selection-end-column="12" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TweenLite.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/updateToSae/bower_components/gsap/src/uncompressed/TweenLite.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-8.538462" vertical-offset="1563" max-vertical-offset="26910">
-                  <caret line="119" column="62" selection-start-line="119" selection-start-column="61" selection-end-line="119" selection-end-column="62" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="removing_and_destroying.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/removing_and_destroying.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-1.25" vertical-offset="960" max-vertical-offset="1860">
-                  <caret line="66" column="38" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.23809524" vertical-offset="150" max-vertical-offset="1335">
-                  <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                    <element signature="e#371#2591#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.81512606" vertical-offset="910" max-vertical-offset="2040">
+              <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1215">
+              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dailog.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/dailog.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="405">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1706" max-vertical-offset="2325">
+              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="props.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/props.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="330">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="normalize.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/normalize.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.230769" vertical-offset="1814" max-vertical-offset="6420">
+              <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="titlechart.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/titlechart.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="405">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -157,35 +135,177 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/styles/style.css" />
-        <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/.bowerrc" />
-        <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/class_toggles.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/images/Qnude.svg" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/mobile_advanced2.html" />
         <option value="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/mobile_advanced.html" />
         <option value="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/parallax_sections.html" />
         <option value="$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/parallax_scrolling.html" />
-        <option value="$PROJECT_DIR$/app/scripts/main.js" />
         <option value="$PROJECT_DIR$/app/mobile_advanced2.html" />
+        <option value="$PROJECT_DIR$/app/scripts/main.js" />
+        <option value="$PROJECT_DIR$/app/styles/style.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/app/styles/cloth.sass" />
+        <option value="$PROJECT_DIR$/app/styles/cloth.css" />
+        <option value="$PROJECT_DIR$/app/styles/cloth.scss" />
+        <option value="$PROJECT_DIR$/app/styles/main.css" />
+        <option value="$PROJECT_DIR$/app/styles/dailog.scss" />
+        <option value="$PROJECT_DIR$/bower_components/ScrollMagic/css/style.css" />
+        <option value="$PROJECT_DIR$/app/styles/titlechart.scss" />
+        <option value="$PROJECT_DIR$/app/styles/main.scss" />
+        <option value="$PROJECT_DIR$/app/styles/props.scss" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
   <component name="JsGruntFileManager">
     <gruntfiles>
       <GruntfileState>
+        <alias-tasks>
+          <alias-task value="build" />
+          <alias-task value="default" />
+        </alias-tasks>
+        <multi-tasks>
+          <GruntMultiTaskState>
+            <name>any-newer</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>autoprefixer</name>
+            <targets>
+              <target value="dist" />
+            </targets>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>clean</name>
+            <targets>
+              <target value="dist" />
+            </targets>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>concat</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>concurrent</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>connect</name>
+            <targets>
+              <target value="livereload" />
+              <target value="test" />
+              <target value="dist" />
+            </targets>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>copy</name>
+            <targets>
+              <target value="dist" />
+              <target value="styles" />
+            </targets>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>cssmin</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>htmlmin</name>
+            <targets>
+              <target value="dist" />
+            </targets>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>imagemin</name>
+            <targets>
+              <target value="dist" />
+            </targets>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>jshint</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>mocha</name>
+            <targets>
+              <target value="all" />
+            </targets>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>newer</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>newer-clean</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>newer-postrun</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>rev</name>
+            <targets>
+              <target value="dist" />
+            </targets>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>sass</name>
+            <targets>
+              <target value="dist" />
+              <target value="server" />
+            </targets>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>serve</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>server</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>svgmin</name>
+            <targets>
+              <target value="dist" />
+            </targets>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>test</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>uglify</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>usemin</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>useminPrepare</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>watch</name>
+            <targets>
+              <target value="bower" />
+              <target value="js" />
+              <target value="jstest" />
+              <target value="gruntfile" />
+              <target value="sass" />
+              <target value="styles" />
+              <target value="livereload" />
+            </targets>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>wiredep</name>
+            <targets>
+              <target value="app" />
+              <target value="sass" />
+            </targets>
+          </GruntMultiTaskState>
+        </multi-tasks>
         <gruntfile-path>$PROJECT_DIR$/Gruntfile.js</gruntfile-path>
       </GruntfileState>
     </gruntfiles>
     <initial>false</initial>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="824" />
+    <option name="x" value="-1" />
+    <option name="y" value="24" />
+    <option name="width" value="1593" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -213,6 +333,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -244,10 +365,6 @@
               <option name="myItemId" value="bower_components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScrollMagic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -259,107 +376,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScrollMagic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScrollMagic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="expert" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScrollMagic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScrollMagic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="advanced" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getWorks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -374,6 +391,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -413,9 +434,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getWorks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getWorks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -430,17 +468,26 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/images" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert" />
-      <recent name="$PROJECT_DIR$/app/images" />
       <recent name="$PROJECT_DIR$/app/scripts" />
       <recent name="$PROJECT_DIR$/app/styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/sass" />
       <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -451,12 +498,14 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
       <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -464,16 +513,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -497,29 +536,50 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="824" extended-state="6" />
-    <editor active="false" />
+    <frame x="-1" y="24" width="1593" height="822" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27185792" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38062757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329235" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36480686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23791103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11369863" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38062757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329235" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38062757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27185792" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23791103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-    </layout>
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -539,129 +599,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/svg_drawing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/gsap/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5555553" vertical-offset="0" max-vertical-offset="360">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/gsap/src/minified/TweenMax.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/examples.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.384615" vertical-offset="12412" max-vertical-offset="14025">
-          <caret line="842" column="9" selection-start-line="842" selection-start-column="7" selection-end-line="842" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/manipulating_tweens.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/infinite_scrolling.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1605">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/js/jquery.scrollmagic.debug.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4005">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/img/apple-touch-icon-precomposed.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47384155" vertical-offset="7273" max-vertical-offset="12855">
-          <caret line="506" column="19" selection-start-line="506" selection-start-column="19" selection-end-line="506" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/img/demo_arrow_scroll.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/basic/going_horizontal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.625" vertical-offset="516" max-vertical-offset="1260">
-          <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="781">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/Qnude.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.078125" vertical-offset="0" max-vertical-offset="2520">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/qshort.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="768">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/advanced/advanced_tweening.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9677419" vertical-offset="300" max-vertical-offset="3525">
@@ -674,10 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-26.041666" vertical-offset="710" max-vertical-offset="1950">
           <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#section#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#section#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-20.625" vertical-offset="195" max-vertical-offset="1650">
           <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39534885" vertical-offset="465" max-vertical-offset="1740">
           <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -709,7 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
           <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -717,7 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.916667" vertical-offset="116" max-vertical-offset="1590">
           <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -751,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="30.0" vertical-offset="720" max-vertical-offset="1605">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,19 +697,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.109970674" vertical-offset="0" max-vertical-offset="682">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/dev/src/class.ScrollScene.extend.debug.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52734375" vertical-offset="120" max-vertical-offset="3750">
           <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -789,14 +712,6 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#section#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#4;n#section#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/updateToSae/bower_components/ScrollMagic/dev/src/class.ScrollMagic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44921875" vertical-offset="60" max-vertical-offset="8985">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -812,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45564517" vertical-offset="621" max-vertical-offset="1425">
           <caret line="64" column="50" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -824,39 +738,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/css/examples.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="12.537313" vertical-offset="0" max-vertical-offset="14025">
-          <caret line="672" column="14" selection-start-line="672" selection-start-column="14" selection-end-line="672" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.726206" vertical-offset="13" max-vertical-offset="780">
           <caret line="38" column="80" selection-start-line="38" selection-start-column="80" selection-end-line="38" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/updateToSae/bower_components/gsap/src/uncompressed/TweenLite.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.538462" vertical-offset="1563" max-vertical-offset="26910">
-          <caret line="119" column="62" selection-start-line="119" selection-start-column="61" selection-end-line="119" selection-end-column="62" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/updateToSae/bower_components/gsap/src/uncompressed/TweenMax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6486486" vertical-offset="101883" max-vertical-offset="105705">
-          <caret line="6833" column="58" selection-start-line="6833" selection-start-column="53" selection-end-line="6833" selection-end-column="59" />
-          <folding>
-            <marker date="1414616291000" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -864,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57462686" vertical-offset="755" max-vertical-offset="1695">
           <caret line="76" column="52" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -872,7 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1641791" vertical-offset="0" max-vertical-offset="1530">
           <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -887,26 +770,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/removing_and_destroying.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25" vertical-offset="960" max-vertical-offset="1860">
-          <caret line="66" column="38" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/iscroll-probe.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30570">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/updateToSae/bower_components/ScrollMagic/dev/src/class.ScrollScene.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="16.5" vertical-offset="5499" max-vertical-offset="26505">
-          <caret line="338" column="12" selection-start-line="338" selection-start-column="12" selection-end-line="338" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -919,29 +786,214 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23809524" vertical-offset="150" max-vertical-offset="1335">
-          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#371#2591#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/js/_examples/highlight.pack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="694">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/examples/expert/removing_and_destroying.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="915" max-vertical-offset="1860">
+          <caret line="66" column="38" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.yo-rc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="120">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1155">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48165137" vertical-offset="0" max-vertical-offset="654">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1764706" vertical-offset="0" max-vertical-offset="680">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/cloth.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.769231" vertical-offset="2355" max-vertical-offset="6375">
+          <caret line="167" column="17" selection-start-line="167" selection-start-column="17" selection-end-line="167" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.tmp/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.87215906" vertical-offset="406" max-vertical-offset="1110">
+          <caret line="68" column="15" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/cloth.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.875" vertical-offset="0" max-vertical-offset="870">
+          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1710" max-vertical-offset="2460">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/cloth.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1305">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="1814" max-vertical-offset="6420">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/css/examples.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1851" max-vertical-offset="14025">
+          <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/props.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/titlechart.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="405">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/dailog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="405">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1706" max-vertical-offset="2325">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/props.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="330">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ScrollMagic/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1215">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.9955157" vertical-offset="0" max-vertical-offset="2190">
-          <caret line="89" column="46" selection-start-line="89" selection-start-column="46" selection-end-line="89" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.81512606" vertical-offset="910" max-vertical-offset="2040">
+          <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

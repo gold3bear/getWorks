@@ -1,0 +1,18 @@
+/*文章排版*/
+/*字体预设*/
+
+/*分场景背景色*/
+section#designer {
+  background: #EB713B;
+}
+ul {
+  list-style-type:none;
+  padding-left:0px;
+}
+@import "dailog";
+
+@import "titlechart";
+/*身体 和 *衣服*/
+@import "cloth";
+/* 道具 */
+@import "props";

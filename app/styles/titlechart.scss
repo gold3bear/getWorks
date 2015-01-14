@@ -1,0 +1,22 @@
+@mixin border {border:solid 1px red}
+
+
+
+.title-chart {
+    width:75%;
+    padding:0 1em;
+    margin: 0 20px;
+    border-left:  #fff solid 2px;
+    z-index: 0;
+    color:rgba(255,255,255,0.8);
+}
+
+.title-chart .title {
+   margin-top:1em;
+   font-weight: 100;
+   font-family: Oswald;
+   color:#fff;
+}
+.title-chart > ul {
+  font-size: 2em;
+}

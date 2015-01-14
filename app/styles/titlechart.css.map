@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "file": "",
+  "sources": ["app/styles/titlechart.scss"],
+  "names": [],
+  "mappings": "AAIA;EACI,OAAM;EACN,SAAQ;EACR,QAAQ;EACR,aAAc;EACd,SAAS;EACT,OAAM;;AAGV,aAAa;EACV,YAAW;EACX,aAAa;EACb,aAAa;EACb,OAAM;;AAET,eAAe;EACb,WAAW"
+}
