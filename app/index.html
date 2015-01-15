@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="styles/main.css" type="text/css">
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 
-	<script type="text/javascript" src="../bower_components/ScrollMagic/js/_dependent/greensock/TweenMax.min.js"></script>
+    <script type="text/javascript" src="../bower_components/gsap/src/minified/TweenMax.min.js"></script>
 	<script type="text/javascript" src="../bower_components/ScrollMagic/js/_dependent/jquery.min.js"></script>
 	<script type="text/javascript" src="../bower_components/ScrollMagic/js/_examples/highlight.pack.js"></script>
   	<script type="text/javascript" src="../bower_components/ScrollMagic/js/_examples/modernizr.custom.min.js"></script>
@@ -31,17 +31,18 @@
 			<div class="scrollContent" style="position: relative;">
 				<section id="titlechart">
 					<div id="description">
-						<h1>简历开始之前</h1>
-						<h2>为了达到更好的体验,请:</h2>
-                        <h2>用你的手指，在这光滑的屏幕上摩擦</h2>
+						<h1>郑重提醒,前方高能</h1>
+						<h2>请:</h2>
+                        <h2>用你的手指，在这光滑的屏幕上小心摩擦</h2>
                         <h2>点击场景中的小物件会有惊喜</h2>
+                        <h2>不易看太久，否则节操会掉</h2>
 					</div>
 				</section>
 				<section class="demo">
 					<div class="spacer s0" id="trigger"></div>
                     <div class="spacer s2"></div>
                     <div id="dialog" class="hidden">对话框</div>
-					<div id="body" class="body">
+					<div id="body" class="body" style="z-index:10">
                         <!--篮球服-->
                         <div class="basket-uniform"></div>
                         <div class="basket-short"></div>
@@ -62,7 +63,7 @@
                         <h1 class="title"> <small>I'M A</small><br/> <strong>DESIGNER</strong></h1>
                         <ul>
                             <li>
-                                专业技能 <strong>娴熟</strong>
+                               专业技能 <strong>娴熟</strong>
                             </li>
                             <li>
                                 紧跟 <strong>国际</strong>潮流
@@ -71,28 +72,28 @@
                                 良好的 <strong>设计素养</strong>
                             </li>
                             <li>
-                                带过设计<strong>团队</strong>
+                                有团队<strong>领导力</strong>
                             </li>
                             <li>
                                 独到的设计 <strong>见解</strong>
                             </li>
                             <br/>
                             <li>
-                                <strong>能够把设计落到实处的人!</strong>
+                                能够把设计<strong>落到实处</strong>的设计师!
                             </li>
                         </ul>
                     </div>
+                    <div class="spacer s1"></div>
                     <div class="bring-props"></div>
-                    <div class="spacer s2"></div>
                     <div class="props">
                         <ul>
-                            <li class="degree prop" >东华大学工业设计研究生</li>
-                            <li class="manager prop">东华大学设计管理工作室主管</li>
-                            <li class="badge prop">世博会志愿者徽章设计师</li>
+                            <li class="degree prop" style="z-index:20" data-dialog="东华大学工业设计 <br> 研究生"></li>
+                            <li class="manager prop"  style="z-index:20" data-dialog="起亚汽车设计大赛20强"></li>
+                            <li class="badge prop" style="z-index:20" data-dialog="世博会志愿者徽章设计师"></li>
                         </ul>
                     </div>
+                    <div class="spacer s5"></div>
                     <div class="take-props"></div>
-                    <div class="spacer s2"></div>
                     <div class="takeoff"></div>
                 </section>
 

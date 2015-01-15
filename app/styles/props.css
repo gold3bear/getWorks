@@ -5,11 +5,21 @@
 .props ul {
   width: 98%; }
 
-.props li {
+.props ul > li {
   float: right;
   width: 33%;
-  height: 100px;
+  height: 100px; }
+
+.degree {
   background-size: contain;
-  background: transparent url('../images/blog.gif') center no-repeat; }
+  background: transparent url('../images/cap.svg') center no-repeat; }
+
+.manager {
+  background-size: contain;
+  background: transparent url('../images/cap.svg') center no-repeat; }
+
+.badge {
+  background-size: contain;
+  background: transparent url('../images/cap.svg') center no-repeat; }
 
 /*# sourceMappingURL=props.css.map */
