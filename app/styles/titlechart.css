@@ -1,4 +1,4 @@
-.title-chart {
+.title-chart, #coder .title-chart {
   width: 75%;
   padding: 0 1em;
   margin: 0 20px;
@@ -6,14 +6,19 @@
   z-index: 0;
   color: rgba(255, 255, 255, 0.8); }
 
-.title-chart .title {
-  margin-top: 1em;
+.title-chart .title, .title-chart #coder .title-chart, #coder .title-chart .title-chart {
+  margin-top: 0;
   font-weight: 100;
   font-family: Oswald;
   color: #fff;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5); }
 
-.title-chart > ul {
+.title-chart > ul, .title-chart > #coder .title-chart, #coder .title-chart > .title-chart {
   font-size: 2em; }
+
+#coder .title-chart {
+  text-align: right;
+  border-left: none !important;
+  border-right: #fff solid 2px; }
 
 /*# sourceMappingURL=titlechart.css.map */

@@ -12,7 +12,7 @@
 }
 
 .title-chart .title {
-   margin-top:1em;
+   margin-top:0;
    font-weight: 100;
    font-family: Oswald;
    color:#fff;
@@ -20,4 +20,11 @@
 }
 .title-chart > ul {
   font-size: 2em;
+}
+
+#coder .title-chart {
+  @extend .title-chart;
+  text-align:right;
+  border-left: none !important;
+  border-right:  #fff solid 2px;
 }

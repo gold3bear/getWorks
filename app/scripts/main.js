@@ -24,12 +24,9 @@ $(document).ready(function ($) {
          var dialogBox = $('<div>').append(dialogContent).attr('id','dialog');
          //放到指定位置；
          var position = $('section.demo');
-         //定时器：停留2秒钟；
-
          if(position.children('#dialog')){
              $('#dialog').remove();
          }
-
         position.append(dialogBox);
         window.setTimeout(function(){
             $('#dialog').remove();
@@ -38,7 +35,6 @@ $(document).ready(function ($) {
          $('#dialog').remove();
     });
     /* 导演 */
-    
     var director = {
         elementTemp:{},
         clothElementCache:[],
@@ -90,17 +86,18 @@ $(document).ready(function ($) {
             this.timeLine.add(
                     TweenMax.from(textElement,1,{ opacity:0, y:-50,height:'2em'}))
                 .add(
-                    TweenMax.staggerFrom(aside,0.6,{opacity:0, scale:0, y:80, rotationX:180, transformOrigin:"0% 50% -50",  ease:Back.easeOut}, 0.5, "+=0")
+                    TweenMax.staggerFrom(aside,1,{opacity:0, scale:0, y:30,  ease:Back.easeOut}, 0.5, "+=0")
             );
             return this;
         },
         bringProp:function(propElement){
             var props = this.propElementCache = document.querySelectorAll(propElement);
             this.timeLine.add(
-                    TweenMax.staggerFromTo(props,2,{opacity:0, scale:0, y:-300, rotationX:180, transformOrigin:"0% 50% -50"}, {opacity:1, scale:1, y:250,rotationX:0, rotation:0, ease:Back.easeOut},0.5, "+=30") )
+                    TweenMax.staggerFromTo(props,4,{opacity:0, y:100, scale:0,rotation:180}, {opacity:1, scale:1,y:220, rotation:0, ease:Back.easeOut},0.5, "+=30") )
                 .add(
-                    TweenMax.to(props, 2, {y:370, ease: Linear.easeNone})
-                );
+                    TweenMax.to(props, 4, {opacity:0,y:-100, ease:Linear.easeIn,delay:10})
+
+            );
             return this;
         },
         takeProps: function(){
@@ -118,52 +115,31 @@ $(document).ready(function ($) {
         .wear('.basket-short',-400,60)
         .showAside('#designer .title-chart')
         .createScene({triggerElement: "#designer > .wear",duration: 400});
-//    /*脱掉*/
-//    director.createTimeLine()
-//        .takeoff()
-//        .createScene({triggerElement: "#designer> .takeoff", duration: 100});
     /*道具*/
     director.createTimeLine()
            .bringProp('#designer .prop')
-           .createScene({triggerElement: "#designer > .bring-props",duration: 200});
-    /*收走道具*/
-    director.createTimeLine()
-        .takeProps()
-        .createScene({triggerElement: "#designer > .take-props",duration: 100,offset:-150});
+           .createScene({triggerElement: "#designer > .bring-props",duration: 300});
 
     /* 穿github 的服饰*/
     director.createTimeLine()
         .wear('.git-shirt')
         .wear('.git-short',-400,60)
-        .createScene({triggerElement: "#coder > .wear",duration: 200});
-    /*脱掉*/
-//    director.createTimeLine()
-//        .takeoff()
-//        .createScene({triggerElement: "#coder > .takeoff", duration: 100});
+        .showAside('#coder .title-chart')
+        .createScene({triggerElement: "#coder > .wear",duration: 400});
+    /*道具*/
+    director.createTimeLine()
+        .bringProp('#coder .prop')
+        .createScene({triggerElement: "#coder > .bring-props",duration: 300});
 
     /* 穿PM的服饰*/
     director.createTimeLine()
         .wear('.pm-shirt')
         .wear('.pm-short',-400,60)
+        .showAside('#pm .title-chart')
         .createScene({triggerElement: "#pm > .wear",duration: 200});
-
-//    /*脱掉*/
-//    director.createTimeLine()
-//        .takeoff()
-//        .createScene({triggerElement: "#pm> .takeoff", duration: 100});
-
-
-    /* 穿上所有衣服 */
-//    director.createTimeLine()
-//        .wearAll('.basket-uniform')
-//        .wearAll('.basket-short')
-//        .wearAll('.git-shirt')
-//        .wearAll('.git-short')
-//        .wearAll('.pm-shirt')
-//        .wearAll('.pm-short')
-//        .wearAll('.pm-shirt')
-//        .createScene({triggerElement: "#value > .wear",duration: 200});
-
+    director.createTimeLine()
+        .bringProp('#pm .prop')
+        .createScene({triggerElement: "#pm > .bring-props",duration: 300});
     // make sure we only do this on mobile:
     if (Modernizr.touch) {
         // configure iScroll

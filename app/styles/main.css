@@ -1,13 +1,3 @@
-/*文章排版*/
-/*字体预设*/
-/*分场景背景色*/
-section#designer {
-  background: #EB713B; }
-
-ul {
-  list-style-type: none;
-  padding-left: 0px; }
-
 div#dialog {
   font-size: 18px;
   position: fixed;
@@ -33,7 +23,7 @@ div#dialog:after {
   position: absolute;
   z-index: 21; }
 
-.title-chart {
+.title-chart, #coder .title-chart {
   width: 75%;
   padding: 0 1em;
   margin: 0 20px;
@@ -41,15 +31,20 @@ div#dialog:after {
   z-index: 0;
   color: rgba(255, 255, 255, 0.8); }
 
-.title-chart .title {
-  margin-top: 1em;
+.title-chart .title, .title-chart #coder .title-chart, #coder .title-chart .title-chart {
+  margin-top: 0;
   font-weight: 100;
   font-family: Oswald;
   color: #fff;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5); }
 
-.title-chart > ul {
+.title-chart > ul, .title-chart > #coder .title-chart, #coder .title-chart > .title-chart {
   font-size: 2em; }
+
+#coder .title-chart {
+  text-align: right;
+  border-left: none !important;
+  border-right: #fff solid 2px; }
 
 /*身体 和 *衣服*/
 /*第一场景,脱衣服*/
@@ -157,5 +152,21 @@ div#dialog:after {
 .badge {
   background-size: contain;
   background: transparent url('../images/cap.svg') center no-repeat; }
+
+/*文章排版*/
+/*字体预设*/
+/*分场景背景色*/
+section#designer {
+  background: #EB713B; }
+
+section#coder {
+  background: #3da3a2; }
+
+section#pm {
+  background: #f2b636; }
+
+ul {
+  list-style-type: none;
+  padding-left: 0; }
 
 /*# sourceMappingURL=main.css.map */
