@@ -1,8 +1,10 @@
 /* xiongyongxin@gmail.com
  *  2015年01月12日18:08:41
  * */
+//
 $(window).load(function() {
-    $.when($('#page-loader').addClass('hide')).done(function () {
+
+    $.when( $('#page-loader').addClass('out')).done(function () {
         $('#content-wrapper').addClass('in');
     });
 });
