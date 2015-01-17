@@ -1,7 +1,17 @@
 /* xiongyongxin@gmail.com
  *  2015年01月12日18:08:41
  * */
+$(window).load(function() {
+    $.when($('#page-loader').addClass('hide')).done(function () {
+        $('#content-wrapper').addClass('in');
+    });
+});
+
 $(document).ready(function ($) {
+
+    /*
+    *  loading 成功后显示页面
+    * */
 
     // init controller
     var controller = new ScrollMagic({container: "#example-wrapper"});
@@ -183,3 +193,11 @@ $(document).ready(function ($) {
 
     //显示有多少对象
 });
+var handlePageContentView = function() {
+    "use strict";
+    $(window).load(function() {
+        $.when($('#page-loader').addClass('hide')).done(function() {
+            $('#page-container').addClass('in');
+        });
+    });
+};

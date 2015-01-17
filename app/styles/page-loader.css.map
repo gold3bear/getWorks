@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "file": "",
+  "sources": ["app/styles/page-loader.scss"],
+  "names": [],
+  "mappings": "AAAA;EACI,UAAU;EACV,KAAK;EACL,MAAM;EACN,QAAQ;EACR,OAAO;EACP,iBAAiB;EACjB,YAAY;;AAEhB,gBAAgB;EACZ,SAAS;EACT,YAAY;EACZ,oBAAoB;;AAGxB,gBAAgB,KAAK;EACjB,SAAS"
+}
