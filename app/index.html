@@ -12,7 +12,7 @@
 	<link href='http://fonts.useso.com/css?family=Source+Sans+Pro:300,400,700,400italic|Josefin+Slab:400,700italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.useso.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="../bower_components/ScrollMagic/css/normalize.css" type="text/css">
-	<link rel="stylesheet" href="../bower_components/ScrollMagic/css/examples.css" type="text/css">
+	<link rel="stylesheet" href="styles/examples.css" type="text/css">
     <link rel="stylesheet" href="styles/main.css" type="text/css">
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 
@@ -31,14 +31,26 @@
 			<div class="scrollContent" style="position: relative;">
 				<section id="titlechart">
 					<div id="description">
-						<h1>郑重提醒,前方高能</h1>
-						<h2>请:</h2>
-                        <h2>用你的手指，在这光滑的屏幕上小心摩擦</h2>
-                        <h2>点击场景中的小物件会有惊喜</h2>
-                        <h2>不易看太久，否则节操会掉</h2>
+                        <h1 class="title"></h1>
+						<h2>郑重提醒,前方高能</h2>
+                        <ol>
+                            <li>
+                               用手指在这光滑的屏幕上轻轻摩擦
+                            </li>
+                            <li>
+                               上下滑动似魔鬼的步伐
+                            </li>
+                            <li>
+                               猛击场景中的小物件
+                            </li>
+                            <li>
+                               节操掉了概不负责
+                            </li>
+                        </ol>
 					</div>
+                    <img  id="cloud" src="images/cloud.svg"/>
 				</section>
-				<section class="demo">
+				<section id="start">
 					<div class="spacer s0" id="trigger"></div>
                     <div class="spacer s2"></div>
                     <div id="dialog" class="hidden">对话框</div>
@@ -141,34 +153,49 @@
                 <section id="pm">
                     <div class="wear"></div>
                     <div class="title-chart">
-                    <h1 class="title"> <small>I'M finding a</small><br/> <strong>Product Manager Job</strong></h1>
+                    <h1 class="title"> <small>I'M A</small><br/> <strong>Product Manager</strong></h1>
                         <ul>
-                            <li>有过<strong>创业经历</strong></li>
+                            <li>信奉<strong>精益创业</strong></li>
                             <li>深刻理解产品<strong>价值</strong></li>
+                            <li>熟悉互联网产品的<strong>开发方式</strong></li>
                             <li><strong>减少</strong>团队沟通成本 </li>
                             <li><strong>更强</strong>的产品执行力 </li>
-                            <li><strong>敏捷</strong>团队不可或缺的成员</li>
                             <br/>
-                            <li>
-                                正寻找靠谱的<strong>产品经理</strong>岗位
-                             </li>
+                            <li>是<strong>敏捷团队不可或缺的成员</strong></li>
                         </ul>
                     </div>
                     <div class="spacer s1"></div>
                     <div class="bring-props"></div>
                     <div class="props">
                         <ul>
-                            <li class="manager prop"  data-dialog="热爱开源,参与维护Laravel微信SDK;关注我的github，你能找到本简历源代码！"></li>
-                            <li class="manager prop" data-dialog="参与过企业工单系统微信账号的开发"></li>
-                            <li class="badge prop"   data-dialog="独立完成项目——植物宝贝花卉管理平台"></li>
+                            <li class="manager prop"  data-dialog="有创业经历，商业计划书获得大学生创业基金会资助"></li>
+                            <li class="manager prop" data-dialog="研究生毕业设计-产品决策魔方"></li>
+                            <li class="badge prop"   data-dialog="为企业做过微信产品开发和圆领工具开发，了解产品中的规律与问题"></li>
                         </ul>
                     </div>
                     <div class="spacer s4"></div>
                 </section>
                 <!--contact 联系方式-->
-                <section id="value">
-                    <div class="wear"></div>
-                    <div class="spacer s5"></div>
+                <section id="contact">
+                    <div class="title">
+                       <h1>I'M Finding </h1>
+                        <ul>
+                            <li>我正在寻找</li>
+                            <li>一个靠谱平台</li>
+                            <li>重视产品价值</li>
+                            <li>为实现理想而奋斗的团队</li>
+
+                        </ul>
+                    </div>
+                    <div class="spacer s1"></div>
+                    <div class="bring-props"></div>
+                    <div class="props">
+                        <ul>
+                            <li class="manager prop"  data-dialog="邮件给我<a href='mailto:xyongxin@gmail.com'>xyongxin@gmail.com</a>"></li>
+                            <li class="manager prop" data-dialog=""></li>
+                            <li class="badge prop"   data-dialog="为企业做过微信产品开发和圆领工具开发，了解产品中的规律与问题"></li>
+                        </ul>
+                    </div>
                 </section>
 			</div>
 		</div>

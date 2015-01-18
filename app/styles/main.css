@@ -23,6 +23,43 @@ div#dialog:after {
   position: absolute;
   z-index: 21; }
 
+section#titlechart {
+  text-align: center;
+  position: relative;
+  min-height: 400px;
+  min-width: 100%; }
+
+section#titlechart h1.title {
+  width: 243px;
+  height: 56px;
+  margin: 0 auto;
+  background: transparent url(../images/title.svg) center no-repeat; }
+
+section#titlechart #description {
+  position: relative;
+  width: 70%;
+  margin: 150px auto 0 auto;
+  z-index: 10; }
+
+section#titlechart #description ol {
+  padding-left: 30px;
+  font-size: 1.2em;
+  line-height: 1.3em;
+  text-align: left;
+  max-width: 240px;
+  margin: 10px auto 10px auto;
+  white-space: normal; }
+
+section#titlechart #description ol {
+  list-style-position: outside; }
+
+#example-wrapper section#titlechart #description:after {
+  content: "↧";
+  font-size: 40px; }
+
+#example-wrapper.horizontal section#titlechart #description:after {
+  content: "↦"; }
+
 .title-chart, #coder .title-chart {
   width: 75%;
   padding: 0 1em;
@@ -184,6 +221,15 @@ div#dialog:after {
 
 /*文章排版*/
 /*字体预设*/
+#cloud {
+  width: 130%;
+  position: absolute;
+  left: 0;
+  bottom: 0; }
+
+section#start {
+  background: #fff; }
+
 /*分场景背景色*/
 section#designer {
   background: #EB713B; }

@@ -35,7 +35,7 @@ $(document).ready(function ($) {
          //把数据绑定到对话框中
          var dialogBox = $('<div>').append(dialogContent).attr('id','dialog');
          //放到指定位置；
-         var position = $('section.demo');
+         var position = $('section.start');
          if(position.children('#dialog')){
              $('#dialog').remove();
          }

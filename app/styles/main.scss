@@ -14,7 +14,15 @@
 }
 /*文章排版*/
 /*字体预设*/
-
+#cloud {
+  width:130%;
+  position:absolute;
+  left:0;
+  bottom:0;
+}
+section#start {
+  background:#fff;
+}
 /*分场景背景色*/
 section#designer {
   background: #EB713B;
