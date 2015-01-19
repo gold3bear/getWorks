@@ -17,7 +17,16 @@ $(document).ready(function ($) {
 
     // init controller
     var controller = new ScrollMagic({container: "#example-wrapper"});
-    var scene = new ScrollScene({triggerElement: "#trigger", offset: 300})
+    /* 出场,撤离提示文字迅速 */
+    var tween0 = TweenMax.to("#description", 1, {top: -300,ease: Circ.easeInOut});
+    var scene0 = new ScrollScene({triggerElement: "#titlechart", duration:200,offset:220})
+        .setTween(tween0)
+        .addTo(controller)
+        .addIndicators();
+
+    var tween1 = TweenMax.from('#start .chart',1,{opacity:0,ease: Circ.easeInOut});
+    var scene = new ScrollScene({triggerElement: "#trigger",offset:200})
+        .setTween(tween1)
         .setPin("#body")
         .addTo(controller)
         .addIndicators();
@@ -73,7 +82,7 @@ $(document).ready(function ($) {
 
             this.elementTemp = document.querySelector(clothElement);
             this.elementTemp.leftStatus = {opacity: 0, left: lPosition,  ease: Circ.easeOut};
-            this.timeLine.add( TweenMax.from(this.elementTemp, 0.5, this.elementTemp.leftStatus));
+            this.timeLine.add( TweenMax.from(this.elementTemp, 1, this.elementTemp.leftStatus));
             var length = this.clothElementCache.push(this.elementTemp);
             console.log(length);
             return this;
@@ -193,7 +202,6 @@ $(document).ready(function ($) {
         scene.addIndicators();
     }
 
-    //显示有多少对象
 });
 var handlePageContentView = function() {
     "use strict";

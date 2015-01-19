@@ -16,7 +16,7 @@ section#titlechart #description {
 	position: relative;
 	width:70%;
     min-width:240px;
-	margin: 150px auto 0 auto;
+	margin: 100px auto 0 auto;
     z-index:10;
 }
 section#titlechart #description ol {
@@ -35,8 +35,15 @@ section#titlechart #description ol {
 	content: "↧";
 	font-size: 40px;
 }
-#example-wrapper.horizontal section#titlechart #description:after {
-	content: "↦";
+#start .chart {
+ position:absolute;
+ color:#666;
+ font-size:16px;
+ margin:0 -110px;
+ max-width:220px;
+ left:50%;
+ top:-30px;
+
 }
 
 .title-chart {

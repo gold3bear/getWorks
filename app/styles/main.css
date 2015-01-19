@@ -38,7 +38,8 @@ section#titlechart h1.title {
 section#titlechart #description {
   position: relative;
   width: 70%;
-  margin: 150px auto 0 auto;
+  min-width: 240px;
+  margin: 100px auto 0 auto;
   z-index: 10; }
 
 section#titlechart #description ol {
@@ -57,8 +58,14 @@ section#titlechart #description ol {
   content: "↧";
   font-size: 40px; }
 
-#example-wrapper.horizontal section#titlechart #description:after {
-  content: "↦"; }
+#start .chart {
+  position: absolute;
+  color: #666;
+  font-size: 16px;
+  margin: 0 -110px;
+  max-width: 220px;
+  left: 50%;
+  top: -30px; }
 
 .title-chart, #coder .title-chart {
   width: 75%;
@@ -227,8 +234,37 @@ section#titlechart #description ol {
   left: 0;
   bottom: 0; }
 
+/*
+	Containers
+*/
+#content-wrapper, #example-wrapper {
+  height: 100%; }
+
+.scrollContainer {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  width: 100%; }
+
+.scrollContainer {
+  height: 100%;
+  margin: auto; }
+
+#example-wrapper .scrollContent {
+  height: 100%; }
+
+#example-wrapper.scrollContainer .scrollContent {
+  width: 100%;
+  height: auto; }
+
+#example-wrapper .scrollContent {
+  font-size: 14px; }
+
+section.start * {
+  font-size: 13px; }
+
 section#start {
-  background: #fff; }
+  background: #fff;
+  position: relative; }
 
 /*分场景背景色*/
 section#designer {
