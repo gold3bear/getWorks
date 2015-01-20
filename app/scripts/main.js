@@ -6,7 +6,6 @@ require.config({
     baseUrl:"scripts",
     paths: {
         TweenMax: 'TweenMax.min',
-        TimeLineMax: 'TimeLineMax',
         jquery:'jquery.min',
         ScrollMagic: 'jquery.scrollmagic.min',
         "ScrollMagic.debug": 'jquery.scrollmagic.debug',
@@ -17,11 +16,14 @@ require.config({
         'Modernizr': {
             exports: 'Modernizr'
         }
-    },
-    waitSeconds: 300
+    }
 });
 
-require(['jquery','TweenMax','TimeLineMax', 'ScrollMagic','Modernizr','IScroll',"ScrollMagic.debug"],function($,tm,TimeLineMax,sm,Modernizr){
+require(['jquery','TweenMax', 'ScrollMagic','Modernizr','IScroll',"ScrollMagic.debug"],function($,tm,sm,Modernizr){
+
+    /*
+     *  loading 成功后显示页面
+     * */
     $(window).load(function() {
         $.when( $('#page-loader').addClass('out')).done(function () {
             $('#content-wrapper').addClass('in');
@@ -30,25 +32,19 @@ require(['jquery','TweenMax','TimeLineMax', 'ScrollMagic','Modernizr','IScroll',
 
     $(document).ready(function ($) {
 
-        /*
-         *  loading 成功后显示页面
-         * */
-
         // init controller
         var controller = new sm.Controller({container: "#example-wrapper"});
         /* 出场,撤离提示文字迅速 */
         var tween0 = tm.to("#description", 1, {top: -400,ease: Circ.easeInOut});
         var scene0 = new sm.Scene({triggerElement: "#titlechart", duration:200,offset:300})
             .setTween(tween0)
-            .addTo(controller)
-            .addIndicators();
+            .addTo(controller);
 
         var tween1 = tm.fromTo('#start .chart',1,{opacity:0, ease: Circ.easeInOut},{opacity:1});
         var scene = new sm.Scene({triggerElement: "#trigger",offset:200})
             .setTween(tween1)
             .setPin("#body")
-            .addTo(controller)
-            .addIndicators();
+            .addTo(controller);
 
         var scene2 = new sm.Scene({triggerElement: "#trigger", offset: 300});
         TweenLite.defaultOverwrite = false;
@@ -82,7 +78,7 @@ require(['jquery','TweenMax','TimeLineMax', 'ScrollMagic','Modernizr','IScroll',
             /* {triggerElement: object, offset: int}) */
             triggerObject: {},
             createTimeLine: function () {
-                this.timeLine = new TimeLineMax();
+                this.timeLine = new TimelineMax();
                 return this;
             },
             createScene: function (triggerObject) {

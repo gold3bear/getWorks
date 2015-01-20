@@ -13,9 +13,10 @@
 
 @import "footer";
 
-/*
-	General styles
-*/
+/*normalize css*/
+@import "normalize";
+
+/* General styles */
 body {
   font-family: 'Roboto 2', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background-color: $black-color;
