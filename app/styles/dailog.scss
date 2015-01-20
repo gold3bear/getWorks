@@ -1,15 +1,15 @@
 div#dialog {
-
   font-size:18px;
   position:fixed;
   top:10%;
   left:50%;
-  margin-left:-150px;
+  margin-left:-120px;
   border-radius: 8px;
-  width: 60%;
-  max-width: 300px;
+  width: 240px;
   z-index: 100;
-  background: #ffffff; padding: 10px 10px 10px; font-family: 'Lato', sans-serif;
+  background: #ffffff;
+  padding: 10px 10px 10px;
+  font-family: 'Lato', sans-serif;
   box-shadow: 2px 2px 4px rgba(60,60,60,0.2);
 }
 div#dialog a {

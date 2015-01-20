@@ -3,10 +3,9 @@ div#dialog {
   position: fixed;
   top: 10%;
   left: 50%;
-  margin-left: -150px;
+  margin-left: -120px;
   border-radius: 8px;
-  width: 60%;
-  max-width: 300px;
+  width: 240px;
   z-index: 100;
   background: #ffffff;
   padding: 10px 10px 10px;
