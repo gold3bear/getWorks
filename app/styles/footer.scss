@@ -1,8 +1,9 @@
+@import "color";
 #footer {
   position: relative;
   text-align: center;
-  min-height: 220px;
-  background:#444444;
+  min-height: 250px;
+  background:$black-color;
 }
 
 #footer .contact {

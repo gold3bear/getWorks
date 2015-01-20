@@ -172,7 +172,7 @@ $(document).ready(function ($) {
     // make sure we only do this on mobile:
     director.createTimeLine()
            .bringContact('#contact .title')
-           .createScene({triggerElement: "#contact",duration: 300,offset:100});
+           .createScene({triggerElement: "#contact",duration: 200,offset:100});
     if (Modernizr.touch) {
         // configure iScroll
         var myScroll = new IScroll('#example-wrapper',
