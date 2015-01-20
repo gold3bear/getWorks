@@ -9,6 +9,7 @@
 /* 页面 page-loader*/
 @import "page-loader";
 
+@import "footer";
 .hide {
   display:none;
 }
@@ -18,7 +19,17 @@
   width:130%;
   position:absolute;
   left:0;
-  bottom:0;
+  bottom:-1px;
+}
+
+/*工具*/
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
 }
 
 /*
@@ -66,6 +77,9 @@ section#coder {
 }
 section#pm {
   background: #f2b636;
+}
+section#contact {
+  background:#f2b636;
 }
 ul {
   list-style-type:none;

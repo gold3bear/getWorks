@@ -2,14 +2,18 @@ div#dialog {
   font-size: 18px;
   position: fixed;
   top: 10%;
-  left: 25%;
+  left: 20%;
   border-radius: 8px;
-  width: 50%;
+  width: 60%;
+  max-width: 300px;
   z-index: 100;
   background: #ffffff;
   padding: 10px 10px 10px;
   font-family: 'Lato', sans-serif;
   box-shadow: 2px 2px 4px rgba(60, 60, 60, 0.2); }
+
+div#dialog a {
+  text-decoration-line: underline; }
 
 div#dialog:after {
   border: solid;
@@ -68,7 +72,7 @@ section#titlechart #description ol {
   top: -30px; }
 
 .title-chart, #coder .title-chart {
-  width: 75%;
+  width: 80%;
   padding: 0 1em;
   margin: 0 20px;
   border-left: #fff solid 2px;
@@ -89,6 +93,17 @@ section#titlechart #description ol {
   text-align: right;
   border-left: none !important;
   border-right: #fff solid 2px; }
+
+#contact .title {
+  width: 80%;
+  max-width: 300px;
+  margin: -30px auto;
+  color: #fff;
+  font-size: 1.5em;
+  padding: 0px 10px; }
+
+#contact .title h1 {
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5); }
 
 /*身体 和 *衣服*/
 /*第一场景,脱衣服*/
@@ -223,6 +238,37 @@ section#titlechart #description ol {
 #content-wrapper.fade.in {
   opacity: 1; }
 
+#footer {
+  position: relative;
+  text-align: center;
+  min-height: 220px;
+  background: #444444; }
+
+#footer .contact {
+  position: absolute;
+  width: 100%;
+  height: 80px;
+  top: 50%; }
+
+#footer .contact ul {
+  position: relative;
+  top: -50px;
+  width: 100%;
+  display: table; }
+
+#footer .contact li {
+  fill: rgba(255, 255, 255, 0.85);
+  display: table-cell;
+  vertical-align: middle;
+  height: 100px;
+  width: 25%; }
+
+#footer .footer {
+  position: absolute;
+  width: 100%;
+  color: #ddd;
+  bottom: 20px; }
+
 .hide {
   display: none; }
 
@@ -232,7 +278,16 @@ section#titlechart #description ol {
   width: 130%;
   position: absolute;
   left: 0;
-  bottom: 0; }
+  bottom: -1px; }
+
+/*工具*/
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0; }
 
 /*
 	Containers
@@ -274,6 +329,9 @@ section#coder {
   background: #3da3a2; }
 
 section#pm {
+  background: #f2b636; }
+
+section#contact {
   background: #f2b636; }
 
 ul {

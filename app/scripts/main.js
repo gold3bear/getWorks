@@ -21,15 +21,15 @@ $(document).ready(function ($) {
     var tween0 = TweenMax.to("#description", 1, {top: -300,ease: Circ.easeInOut});
     var scene0 = new ScrollScene({triggerElement: "#titlechart", duration:200,offset:220})
         .setTween(tween0)
-        .addTo(controller)
-        .addIndicators();
+        .addTo(controller);
+//        .addIndicators();
 
     var tween1 = TweenMax.from('#start .chart',1,{opacity:0,ease: Circ.easeInOut});
     var scene = new ScrollScene({triggerElement: "#trigger",offset:200})
         .setTween(tween1)
         .setPin("#body")
-        .addTo(controller)
-        .addIndicators();
+        .addTo(controller);
+//        .addIndicators();
 
    var scene2 = new ScrollScene({triggerElement: "#trigger", offset: 300});
     TweenLite.defaultOverwrite = false;
@@ -44,17 +44,15 @@ $(document).ready(function ($) {
          //把数据绑定到对话框中
          var dialogBox = $('<div>').append(dialogContent).attr('id','dialog');
          //放到指定位置；
-         var position = $('section.start');
+         var position = $('section#start');
          if(position.children('#dialog')){
              $('#dialog').remove();
          }
         position.append(dialogBox);
         window.setTimeout(function(){
             $('#dialog').remove();
-         },3000);
-     }).on('mouseleave',function(){
-         $('#dialog').remove();
-    });
+         },3500);
+     });
     /* 导演 */
     var director = {
         elementTemp:{},
@@ -71,8 +69,7 @@ $(document).ready(function ($) {
         createScene: function (triggerObject) {
             this.scene = new ScrollScene(triggerObject)
                 .setTween(this.timeLine)
-                .addTo(controller)
-                .addIndicators();
+                .addTo(controller);
             return this;
         },
         /* leftPosition,topPosition 来的位置*/
@@ -84,7 +81,7 @@ $(document).ready(function ($) {
             this.elementTemp.leftStatus = {opacity: 0, left: lPosition,  ease: Circ.easeOut};
             this.timeLine.add( TweenMax.from(this.elementTemp, 1, this.elementTemp.leftStatus));
             var length = this.clothElementCache.push(this.elementTemp);
-            console.log(length);
+//            console.log(length);
             return this;
         },
         takeoff: function () {
@@ -113,6 +110,7 @@ $(document).ready(function ($) {
         },
         bringProp:function(propElement){
             var props = this.propElementCache = document.querySelectorAll(propElement);
+//            console.log(props);
             this.timeLine.add(
                     TweenMax.staggerFromTo(props,4,{opacity:0, y:100, scale:0,rotation:180}, {opacity:1, scale:1,y:220, rotation:0, ease:Back.easeOut},0.5, "+=30") )
                 .add(
@@ -126,6 +124,16 @@ $(document).ready(function ($) {
                 TweenMax.to(this.propElementCache, 1, {opacity:0,y:-300,ease:Expo.easeIn})
             );
             this.propElementCache = [];
+            return this;
+        },
+        bringContact:function(titleElement){
+            var title = document.querySelectorAll(titleElement);
+            var lis = document.querySelectorAll(titleElement+' li');
+            this.timeLine.add(
+                TweenMax.from(title,1,{ opacity:0, x:300})
+                ).add(
+                TweenMax.staggerFrom(lis,1,{opacity:0, scale:0, y:30,delay:1,  ease:Back.easeOut}, 0.5, "+=0")
+            );
             return this;
         }
     };
@@ -162,6 +170,9 @@ $(document).ready(function ($) {
         .bringProp('#pm .prop')
         .createScene({triggerElement: "#pm > .bring-props",duration: 300});
     // make sure we only do this on mobile:
+    director.createTimeLine()
+           .bringContact('#contact .title')
+           .createScene({triggerElement: "#contact",duration: 300,offset:100});
     if (Modernizr.touch) {
         // configure iScroll
         var myScroll = new IScroll('#example-wrapper',
@@ -171,7 +182,7 @@ $(document).ready(function ($) {
                 // but do scroll vertical
                 scrollY: true,
                 // show scrollbars
-                scrollbars: true,
+                scrollbars: false,
                 // deactivating -webkit-transform because pin wouldn't work because of a webkit bug: https://code.google.com/p/chromium/issues/detail?id=20574
                 // if you dont use pinning, keep "useTransform" set to true, as it is far better in terms of performance.
                 useTransform: false,
@@ -196,10 +207,9 @@ $(document).ready(function ($) {
         });
 
         // add indicators to scrollcontent so they will be moved with it.
-        scene.addIndicators({parent: ".scrollContent"});
     } else {
         // show indicators (requires debug extension)
-        scene.addIndicators();
+//        scene.addIndicators();
     }
 
 });
