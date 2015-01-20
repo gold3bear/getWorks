@@ -18,8 +18,8 @@ $(document).ready(function ($) {
     // init controller
     var controller = new ScrollMagic({container: "#example-wrapper"});
     /* 出场,撤离提示文字迅速 */
-    var tween0 = TweenMax.to("#description", 1, {top: -300,ease: Circ.easeInOut});
-    var scene0 = new ScrollScene({triggerElement: "#titlechart", duration:200,offset:220})
+    var tween0 = TweenMax.to("#description", 1, {top: -400,ease: Circ.easeInOut});
+    var scene0 = new ScrollScene({triggerElement: "#titlechart", duration:200,offset:300})
         .setTween(tween0)
         .addTo(controller);
 //        .addIndicators();

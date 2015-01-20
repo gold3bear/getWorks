@@ -1,8 +1,10 @@
 section#titlechart {
+  background: #c7e1ff;
   text-align: center;
   position: relative;
   min-height: 400px;
-  min-width: 100%; }
+  min-width: 100%;
+  padding-top: 200px; }
 
 section#titlechart h1.title {
   width: 243px;
@@ -14,7 +16,7 @@ section#titlechart #description {
   position: relative;
   width: 70%;
   min-width: 240px;
-  margin: 100px auto 0 auto;
+  margin: 0px auto 0 auto;
   z-index: 10; }
 
 section#titlechart #description ol {
@@ -68,7 +70,7 @@ section#titlechart #description ol {
 #contact .title {
   width: 80%;
   max-width: 300px;
-  margin: -30px auto;
+  margin: -35px auto;
   color: #fff;
   font-size: 1.5em;
   padding: 0px 10px; }
