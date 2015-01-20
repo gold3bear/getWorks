@@ -20,18 +20,9 @@ require.config({
 });
 
 require(['jquery','TweenMax', 'ScrollMagic','Modernizr','IScroll',"ScrollMagic.debug"],function($,tm,sm,Modernizr){
-
-    /*
-     *  loading 成功后显示页面
-     * */
-    $(window).load(function() {
         $.when( $('#page-loader').addClass('out')).done(function () {
             $('#content-wrapper').addClass('in');
         });
-    });
-
-    $(document).ready(function ($) {
-
         // init controller
         var controller = new sm.Controller({container: "#example-wrapper"});
         /* 出场,撤离提示文字迅速 */
@@ -213,17 +204,6 @@ require(['jquery','TweenMax', 'ScrollMagic','Modernizr','IScroll',"ScrollMagic.d
             // show indicators (requires debug extension)
 //        scene.addIndicators();
         }
-
-    });
-    var handlePageContentView = function() {
-        "use strict";
-        $(window).load(function() {
-            $.when($('#page-loader').addClass('hide')).done(function() {
-                $('#page-container').addClass('in');
-            });
-        });
-    };
-
 
 });
 
