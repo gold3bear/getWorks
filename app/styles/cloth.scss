@@ -9,10 +9,11 @@
 
 #body {
   @include size;
-  left:50%;
-  margin-left:-60px;
+//  left:50%;
+//  margin-left:-60px;
   background: transparent url(../images/Qnude.svg) no-repeat center;
-  position: absolute;
+  position: relative;
+  margin: 0 auto;
   z-index: 1; }
 
 @mixin position{

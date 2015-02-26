@@ -115,10 +115,9 @@ section#titlechart #description ol {
   height: 259px;
   width: 120px;
   min-width: 120px;
-  left: 50%;
-  margin-left: -60px;
   background: transparent url(../images/Qnude.svg) no-repeat center;
-  position: absolute;
+  position: relative;
+  margin: 0 auto;
   z-index: 1; }
 
 /*git t恤*/
